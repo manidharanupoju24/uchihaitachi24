@@ -7,7 +7,12 @@
   
  # My skillset include 
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="60" height="60"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60" height="60">
+ 
+ # My work experience :computer:
+  - Senior Software Engineer at [O.C.Tanner](https://www.octanner.com/)
+  - DevOps Engineer at [Infinite Blue](https://infiniteblue.com/)
+  - Senior Software Engineer at [Optum Global Solutions](https://www.optum.com/)
  
 [![Manidhar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=uchihaitachi24)](https://github.com/uchihaitachi24/github-readme-stats)
   

@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I'm currently working on Devops 
+
+## I'm currently learning go programming language
 <!--
 **uchihaitachi24/uchihaitachi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

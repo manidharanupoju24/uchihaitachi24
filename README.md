@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Manidhar. Glad to see you here 👋
 
-#### I'm currently working on Devops 
+#### I'm currently working as Devops Engineer
 
-#### I'm currently learning go programming language
+#### I'm currently learning Go 😄
 <!--
 **uchihaitachi24/uchihaitachi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

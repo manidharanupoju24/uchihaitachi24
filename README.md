@@ -13,7 +13,8 @@
   - DevOps Engineer at [Infinite Blue](https://infiniteblue.com/)
   - Senior Software Engineer at [Optum Global Solutions](https://www.optum.com/)
 
-## My personal CV : https://uchihaitachi24.github.io/CV/
+## My personal CV
+  - https://uchihaitachi24.github.io/CV/
   
 ## My stats
  

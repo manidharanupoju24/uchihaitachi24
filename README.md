@@ -1,7 +1,5 @@
 ## Hi there! I'm Manidhar. Glad to see you here 👋 
 
-## My personal CV : https://uchihaitachi24.github.io/CV/
-
 ## About me :raised_hand:
   - I'm currently working as Devops Engineer
   - I'm currently learning Go 😄
@@ -19,6 +17,8 @@
  
 [![Manidhar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=uchihaitachi24)](https://github.com/uchihaitachi24/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchihaitachi24&&layout=compact)](https://github.com/uchihaitachi24/github-readme-stats)
+
+### My personal CV : https://uchihaitachi24.github.io/CV/
   
 <!--
 **uchihaitachi24/uchihaitachi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

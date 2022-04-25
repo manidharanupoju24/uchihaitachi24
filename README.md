@@ -1,5 +1,7 @@
 ## Hi there! I'm Manidhar. Glad to see you here 👋 
 
+## My personal CV : https://uchihaitachi24.github.io/CV/
+
 ## About me :raised_hand:
   - I'm currently working as Devops Engineer
   - I'm currently learning Go 😄
